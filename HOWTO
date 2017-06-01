@@ -1,0 +1,9 @@
+# adda filer som skall laddas uss
+git add .
+
+# beskriv ändring
+git commit -m "generisk commit"
+
+# ladda upp
+git push -u origin master
+
